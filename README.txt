@@ -8,3 +8,6 @@ Up and Down arrow keys to move forwards or backwards
 
 Aim:
 Navigate the maze to the red ball to get teleported back to the starting position
+
+NOTE:
+It won't compile unless OpenGL Packages are installed. 
